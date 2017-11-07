@@ -1,0 +1,20 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\DesafioDoCavalo\DesafioDoCavalo\bin\Debug\netcoreapp1.1\DesafioDoCavalo.deps.json
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\DesafioDoCavalo\DesafioDoCavalo\bin\Debug\netcoreapp1.1\DesafioDoCavalo.runtimeconfig.json
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\DesafioDoCavalo\DesafioDoCavalo\bin\Debug\netcoreapp1.1\DesafioDoCavalo.runtimeconfig.dev.json
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\DesafioDoCavalo\DesafioDoCavalo\bin\Debug\netcoreapp1.1\DesafioDoCavalo.dll
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\DesafioDoCavalo\DesafioDoCavalo\bin\Debug\netcoreapp1.1\DesafioDoCavalo.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\DesafioDoCavalo\DesafioDoCavalo\obj\Debug\netcoreapp1.1\DesafioDoCavalo.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\DesafioDoCavalo\DesafioDoCavalo\obj\Debug\netcoreapp1.1\DesafioDoCavalo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\DesafioDoCavalo\DesafioDoCavalo\obj\Debug\netcoreapp1.1\DesafioDoCavalo.AssemblyInfo.cs
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\DesafioDoCavalo\DesafioDoCavalo\obj\Debug\netcoreapp1.1\DesafioDoCavalo.dll
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\DesafioDoCavalo\DesafioDoCavalo\obj\Debug\netcoreapp1.1\DesafioDoCavalo.pdb
+C:\Users\pedro\Desktop\github\HorseChessChallenge\DesafioDoCavalo\bin\Debug\netcoreapp1.1\DesafioDoCavalo.deps.json
+C:\Users\pedro\Desktop\github\HorseChessChallenge\DesafioDoCavalo\bin\Debug\netcoreapp1.1\DesafioDoCavalo.runtimeconfig.json
+C:\Users\pedro\Desktop\github\HorseChessChallenge\DesafioDoCavalo\bin\Debug\netcoreapp1.1\DesafioDoCavalo.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\github\HorseChessChallenge\DesafioDoCavalo\bin\Debug\netcoreapp1.1\DesafioDoCavalo.dll
+C:\Users\pedro\Desktop\github\HorseChessChallenge\DesafioDoCavalo\bin\Debug\netcoreapp1.1\DesafioDoCavalo.pdb
+C:\Users\pedro\Desktop\github\HorseChessChallenge\DesafioDoCavalo\obj\Debug\netcoreapp1.1\DesafioDoCavalo.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Desktop\github\HorseChessChallenge\DesafioDoCavalo\obj\Debug\netcoreapp1.1\DesafioDoCavalo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\github\HorseChessChallenge\DesafioDoCavalo\obj\Debug\netcoreapp1.1\DesafioDoCavalo.AssemblyInfo.cs
+C:\Users\pedro\Desktop\github\HorseChessChallenge\DesafioDoCavalo\obj\Debug\netcoreapp1.1\DesafioDoCavalo.dll
+C:\Users\pedro\Desktop\github\HorseChessChallenge\DesafioDoCavalo\obj\Debug\netcoreapp1.1\DesafioDoCavalo.pdb
